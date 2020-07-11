@@ -4,4 +4,4 @@ client.on('ready', () => {
   console.log('Connected as Mr.' + client.user.tag);
 });
 
-client.login('NzMwMzU5MzIxMDc4MTM2ODcz.XwWWhA.Tgq8BOTj3bPsCEsM2scvjixvHX4');
+client.login('');
