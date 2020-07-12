@@ -8,5 +8,9 @@
     "run-dev": "nodemon index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
 }
